@@ -1,3 +1,5 @@
+This is our Semester one project
+
 # Calorie-Counter
 
 1.) Download master file as zip
@@ -33,4 +35,4 @@ enter username and password for admin panel
 
 python manage.py runserver
 
-Github Link is as follows: https://github.com/AnanyaSingh12/Calorie-Counter
+Reach me at linked in @Harjot Parhar www.linkedin.com/in/harjot-parhar
